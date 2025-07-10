@@ -1,2 +1,4 @@
 # DSE6311OM_Group3
-Capstone Project -Team members-AmandaFrithsen;ErtugrulTurkseven;Felix Rajappan
+Team members- Amanda Frithsen
+              Ertugrul Turkseven
+              Felix Rajappan
