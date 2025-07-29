@@ -1,0 +1,151 @@
+TYPE,NAME,MEMBERS,NICKNAME,ORG8CODE,SCH8CODE,ORG4CODE,SHAPE_AREA,SHAPE_LEN
+Collaborative,FLLAC Collaborative,"Clinton, Fitchburg, Gardner, Leominster, Lunenburg, West Boylston, Winchendon, Ashburnham-Westminster, Ayer-Shirley, North Middlesex, Quabbin",FLLAC,05240000,,0524,1365549796.24,318578.226842
+Collaborative,Collaborative for Regional Educational Service and Training,"Amesbury, Andover, Boxford, Dracut, Georgetown, Haverhill, Ipswich, Lawrence, Lowell, Methuen, Middleton, Newburyport, North Andover, Topsfield, Masconomet, Pentucket, Triton, Greater Lawrence RVT",CREST,05280000,,0528,976927765.639,257576.447262
+Collaborative,Collaborative for Educational Services,"Amherst, Belchertown, Conway, Deerfield, Easthampton, Erving, Granby, Greenfield, Hadley, Hatfield, Leverett, Northampton, Orange, Pelham, Rowe, Shutesbury, Southampton, South Hadley, Sunderland, Ware, Whately, Westhampton, Williamsburg, Hawlemont, North",CES,05320000,,0532,2985811975.51,307522.269633
+Collaborative,LABBB Collaborative,"Arlington, Bedford, Belmont, Burlington, Lexington",LABBB,05340000,,0534,136080377.251,68425.8025067
+Collaborative,Lower Pioneer Valley Educational Collaborative,"Agawam, East Longmeadow, Longmeadow, Ludlow, West Springfield, Hampden-Wilbraham, Southwick-Tolland-Granville",LPVEC,05360000,,0536,627691042.108,202399.322062
+Collaborative,Valley Collaborative,"Billerica, Chelmsford, Dracut, Tewksbury, Tyngsborough, Westford, Groton-Dunstable, North Middlesex, Nashoba Valley RVT",Valley,05400000,,0540,816098999.515,211429.561927
+Collaborative,North River Collaborative,"Abington, Avon, East Bridgewater, Hanover, Rockland, Stoughton, West Bridgewater, Bridgewater-Raynham, Whitman-Hanson",NRC,05440000,,0544,419495876.794,158327.653899
+Collaborative,Northshore Education Consortium,"Beverly, Boxford, Danvers, Gloucester, Ipswich, Lynn, Lynnfield, Marblehead, Middleton, Nahant, North Reading, Peabody, Reading, Rockport, Salem, Swampscott, Topsfield, Hamilton-Wenham, Manchester-Essex, Masconomet, Triton",NEC,05460000,,0546,866499972.671,398706.100563
+Collaborative,Pilgrim Area Collaborative,"Duxbury, Halifax, Kingston, Marshfield, Middleborough, Plymouth, Plympton, Stoughton, Silver Lake, Whitman-Hanson",PAC,05480000,,0548,826085134.082,332572.080066
+Collaborative,ACCEPT Education Collaborative,"Ashland, Dover, Framingham, Franklin, Holliston, Hopkinton, Medfield, Medway, Millis, Natick, Needham, Sherborn, Sudbury, Wellesley, Dover-Sherborn, South Middlesex RVT",ACCEPT,05500000,,0550,640819587.871,165574.199993
+Collaborative,READS Collaborative,"Abington, Acushnet, Berkley, Carver, East Bridgewater, Marion, Mattapoisett, Middleborough, Norton, Rochester, Somerset, Taunton, West Bridgewater, Bridgewater-Raynham, Dighton-Rehoboth, Freetown-Lakeville, Somerset-Berkley, Bristol-Plymouth RVT",READS,05580000,,0558,1386049700.3,368575.924009
+Collaborative,SEEM Collaborative,"Lynnfield, Melrose, North Reading, Reading, Saugus, Stoneham, Wakefield, Wilmington, Winchester, Woburn",SEEM,05620000,,0562,262164702.895,87921.6826977
+Collaborative,Shore Educational Collaborative,"Cambridge, Chelsea, Everett, Malden, Medford, Revere, Saugus, Somerville, Winthrop",Shore,05640000,,0564,130972428.982,128491.264194
+Collaborative,Southeastern Mass. Educational Collaborative,"Acushnet, Dartmouth, Fairhaven, Greater New Bedford RVT, Marion, Mattapoisett, New Bedford, Rochester, Old Rochester",SMEC,05700000,,0570,474144317.905,242743.185144
+Collaborative,The Education Cooperative,"Canton, Dedham, Dover, Framingham, Holliston, Hopkinton, Medfield, Middleton, Natick, Needham, Norwood, Sherborn, Walpole, Wayland, Westwood, Dover-Sherborn",TEC,05760000,,0576,651648385.144,229133.533748
+Superintendency Union,Union 19,"Edgartown, Oak Bluffs, Tisbury, Martha's Vineyard, Up-Island",U19,,,,245340628.532,215610.696115
+Superintendency Union,Union 26,"Amherst, Pelham, Amherst-Pelham",U26,,,,270315923.244,87471.1828732
+Superintendency Union,Union 28,"Erving, Leverett, Shutesbury, New Salem-Wendell",EU28,,,,402393086.84,133521.318707
+Superintendency Union,Union 31,"Halifax, Kingston, Plympton, Silver Lake",U31,,,,133537292.919,54947.5158132
+Superintendency Union,Union 50,"Dover, Sherborn, Dover-Sherborn",U50,,,,81774484.8352,59594.1062498
+Superintendency Union,Union 3,"Northborough, Southborough, Northborough-Southborough",U3,,,,88750396.2809,56502.029824
+Superintendency Union,Union 38,"Conway, Deerfield, Sunderland, Whately, Frontier",U38,,,,276428950.762,85221.0877629
+Superintendency Union,Union 43,"Clarksburg, Florida, Monroe, Rowe, Savoy",EU43,,,,280252226.209,94395.7955012
+Superintendency Union,Union 54,"Brewster, Eastham, Orleans, Wellfleet, Nauset",U54,,,,198318542.01,198948.853113
+Superintendency Union,Union 55,"Marion, Mattapoisett, Rochester, Old Rochester",U55,,,,175882893.844,109757.648514
+Superintendency Union,Union 58,"Boxford, Middleton, Topsfield",EU58,,,,133889834.125,73132.7764286
+Superintendency Union,Union 60,"Berlin, Boylston, Berlin-Boylston",U60,,,,85255566.238,49673.6654007
+Superintendency Union,Union 61,"Brimfield, Brookfield, Holland, Sturbridge, Wales, Tantasqua",U61,,,,310529819.623,91555.6547641
+Superintendency Union,Union 66,"Southampton, Westhampton, Williamsburg, Chesterfield-Goshen",U66,,,,339082402.829,115332.158066
+Superintendency Union,Union 70,"Hancock, New Ashford, Richmond",EU70,,,,176748824.44,97919.275297
+Superintendency Union,Union 71,Mount Greylock,U71,,,,197975133.65,88980.7677767
+Superintendency Union,Union 73,"Orange, Petersham, Ralph C Mahar",U73,,,,505478154.815,158324.816987
+Vocational,Assabet Valley RVT,"Berlin, Hudson, Marlborough, Maynard, Northborough, Southborough, Westborough",,08010000,,0801,280315370.527,89418.2104206
+Vocational,Blue Hills RVT,"Avon, Braintree, Canton, Dedham, Holbrook, Milton, Norwood, Randolph, Westwood",,08060000,,0806,264035525.1,110190.899353
+Vocational,Blackstone Valley RVT,"Bellingham, Blackstone, Douglas, Grafton, Hopedale, Mendon, Milford, Millbury, Millville, Northbridge, Sutton, Upton, Uxbridge",,08050000,,0805,661502879.564,116533.596463
+Vocational,Bristol Plymouth RVT,"Berkley, Bridgewater, Dighton, Middleborough, Raynham, Rehoboth, Taunton",,08100000,,0810,663088945.066,187600.484078
+Vocational,Cape Cod RVT,"Barnstable, Brewster, Chatham, Dennis, Eastham, Harwich, Mashpee, Orleans, Provincetown, Truro, Wellfleet, Yarmouth",,08150000,,0815,747376457.578,533657.488845
+Vocational,Essex North Shore Ag Tech,"Beverly Boxford, Danvers, Essex, Gloucester, Hamilton, Lynnfield, Manchester, Marblehead, Middleton, Nahant, Peabody, Rockport, Salem, Swampscott, Topsfield, Wenham",,08170000,,0817,531158770.09,293044.405266
+Charter,Lawrence Family Development Charter School,Lawrence,LFDCS,04540000,04540205,0454,19238173.7382,21162.9940986
+Charter,Libertas Academy Charter School,Springfield,Libertas,35140000,35140305,3514,85669527.5599,40707.8465785
+Charter,Lowell Community Charter Public School,Lowell,LCCPS,04560000,04560050,0456,37630657.8659,28403.6640576
+Charter,Lowell Middlesex Academy Charter School,Lowell,LoMACS,04580000,04580505,0458,37630657.8659,28403.6640576
+Charter,Marblehead Community Charter Public School,Marblehead,MCCPS,04640000,04640305,0464,11225246.0742,23683.0385479
+Charter,Martin Luther King Junior Charter School of Excellence,Springfield,MLKCSE,04920000,04920005,0492,85669527.5599,40707.8465785
+Charter,MATCH Charter Public School,Boston,MATCH,04690000,04690505,0469,130383961.692,191079.658228
+Charter,Mystic Valley Regional Charter School,"Everett, Maldem, Medford, Melrose, Stoneham, Wakefield",MVRCS,04700000,04700105,0470,94369302.5264,59008.5075886
+Charter,Neighborhood House Charter School,Boston,NHCS,04440000,04440205,0444,130383961.692,191079.658228
+Charter,New Heights Charter School of Brockton,"Brockton, Randolph, Taunton",New Heights,35130000,35130305,3513,208014900.911,128674.905405
+Charter,Phoenix Charter Academy Chelsea,"Chelsea, Everett, Lynn, Revere",PCA,04930000,04930505,0493,61154513.8102,67405.2450142
+Charter,Phoenix Charter Academy Lawrence,"Haverhill, Lawrence, Methuen",PCAL,35180000,35180000,3518,171253985.851,78878.0640056
+Charter,Pioneer Charter School of Science,"Chelsea, Everett, Revere",PCSS,04940000,04940205,0494,31127856.6788,42346.1311445
+Charter,Pioneer Charter School of Science II,"Danvers, Lynn, Peabody, Salem, Saugus",PCSS II,35060000,35060505,3506,160308339.334,98895.4076907
+Charter,Old Sturbridge Academy Charter Public School,"Brimfield, Brookfield, Holland, Monson, North Brookfield, Palmer, Southbridge, Spencer-East Brookfield, Sturbridge, Tantasqua, Wales, Webster",OSACPS,35150000,35150205,3515,773128238.998,194886.33636
+Charter,Paulo Freire Social Justice Charter School,"Chicopee, Holyoke, South Hadley, West Springfield",Paulo Freire,35010000,35010505,3501,214033845.469,79796.28628
+Charter,Phoenix Charter Academy Springfield,"Chicopee, Holyoke, Springfield",PCASF,35080000,35080000,3508,206544304.665,80514.0593327
+Charter,Prospect Hill Academy Charter School,"Cambridge, Somerville",PHA,04870000,04870550,0487,29100244.9598,31058.5908606
+Charter,Rising Tide Charter Public School,"Barnstable, Bourne, Carver, Duxbury, Falmouth, Lakeville, Marshfield, Mashpee, Middleborough, Pembroke, Plymouth, Sandwich, Wareham, Old Rochester, Silver Lake",Rising Tide,04830000,04830305,0483,1841519673.76,562759.716025
+Charter,River Valley Charter School,"Amesbury, Newburyport, Pentucket, Triton",River Valley,04820000,04820050,0482,204197163.836,100436.803073
+Charter,Roxbury Preparatory Charter School,Boston,Roxbury Prep,04840000,04840505,0484,130383961.692,191079.658228
+Charter,Sabis International Charter School,Springfield,SABIS,04410000,04410505,0441,85669527.5599,40707.8465785
+Charter,Salem Academy Charter School,Salem,SACS,04850000,04850485,0485,21111613.1386,31107.5790147
+Charter,Seven Hills Charter Public School,Worcester,Seven Hills,04860000,04860105,0486,99562707.1318,42619.2767682
+Charter,Springfield Preparatory Charter School,Springfield,Springfield Prep,35100000,35100205,3510,85669527.5599,40707.8465785
+Charter,South Shore Charter Public School,"Abington, Braintree, Brockton, Cohasset, Duxbury, East Bridgewater, Halifax, Hanover, Hingham, Holbrook, Hull, Kingston, Marshfield, Norwell, Pembroke, Plymouth, Plympton, Quincy, Randolph, Rockland, Scituate, Weymouth, Whitman-Hanson",South Shore,04880000,04880550,0488,1220808794.82,434225.609111
+Charter,Sturgis Charter Public School,"Barnstable, Bourne, Carver, Falmouth, Mashpee, Plymouth, Provincetown, Sandwich, Wareham, Dennis-Yarmouth, Nauset, Monomoy Regional",Sturgis,04890000,04890505,0489,1504982585.44,759045.280496
+Charter,The Sizer School: A North Central Charter Essential School,"Clinton, Fitchburg, Gardner, Leominster, Lunenburg, Ashburnham-Westminster, Nashoba, North Middlesex, Wachusett",Sizer,04740000,04740505,0474,1284262396.67,233956.150623
+Charter,UP Academy Charter School of Boston,Boston,UAB,04800000,04800405,0480,130383961.692,191079.658228
+Charter,UP Academy Charter School of Dorchester,Boston,UAD,35050000,35050405,3505,130383961.692,191079.658228
+Charter,Veritas Preparatory Charter School,Springfield,Veritas,04980000,04980405,0498,85669527.5599,40707.8465785
+Collaborative,Assabet Valley Collaborative,"Auburn, Berlin, Boylston, Grafton, Hudson, Marlborough, Maynard, Millbury, Northborough, Shrewsbury, Southborough, Westborough, Berlin-Boylston, Nashoba, Northborough-Southborough, Assabet Valley RVT",AVC,05020000,,0502,704364437.328,180429.527315
+Collaborative,Bi-County Collaborative,"Attleboro, Bellingham, Easton, Foxborough, Franklin, Hopedale, Mansfield, Milford, Norfolk, North Attleborough, Norton, Plainville, Swansea, Uxbridge, Walpole, Wrentham, Blackstone-Millville, King Phillip, Tri County RVT",BICO,05040000,,0504,1057034342.41,294655.793605
+Collaborative,Cape Cod Collaborative,"Barnstable, Bourne, Brewster, Eastham, Falmouth, Mashpee, Nantucket, Orleans, Provincetown, Sandwich, Truro, Wareham, Wellfleet, Dennis-Yarmouth, Nauset, Martha's Vineyard, Monomoy, Upper Cape Cod RVT",Cape Cod,05120000,,0512,1602535393.99,1134961.08228
+Collaborative,CAPS Education Collaborative,"Fitchburg, Gardner, Leominster, Orange, Petersham, Winchendon, Ashburnham-Westminster, Athol-Royalston, Narragansett, Quabbin, Ralph C Mahar",CAPS,05140000,,0514,1815120728.72,248147.881326
+Collaborative,C.A.S.E. Concord Area SPED Collaborative,"Belmont, Carlisle, Concord, Harvard, Lincoln, Littleton, Maynard, Sudbury, Acton-Boxborough, Concord-Carlisle, Lincoln-Sudbury",CASE,05160000,,0516,431321451.61,144336.996993
+Collaborative,Central Massachusetts Collaborative,"Webster, Worcester",CMC,05180000,,0518,137366838.113,68652.7052193
+Collaborative,South Coast Educational Collaborative,"Berkley, Seekonk, Somerset, Swansea, Taunton, Somerset-Berkley, Dighton-Rehoboth, Freetown-Lakeville",South Coast,05220000,,0522,663611840.691,226985.727824
+Collaborative,EDCO Collaborative,"Arlington, Bedford, Belmont, Brookline, Carlisle, Concord, Lexington, Lincoln, Newton, Sudbury, Waltham, Weston, Watertown, Winchester, Acton-Boxborough, Concord-Carlisle, Lincoln-Sudbury",EDCO,05230000,,0523,567221297.793,175462.174045
+Charter,Abby Kelley Foster Charter Public School,"Auburn, Leicester, Millbury, Oxford, Shrewsbury, Sutton, West Boylston, Worcester, Wachusett",AKFCPS,04450000,04450105,0445,593936397.845,144248.546846
+Charter,Academy of the Pacific Rim Charter Public School,Boston,APR,04120000,04120530,0412,130383961.692,191079.658228
+Charter,Advanced Math and Science Academy Charter School,"Clinton, Hudson, Marlborough, Maynard",AMSA,04300000,04300305,0430,120690214.976,75910.8680468
+Charter,Alma del Mar Charter School,New Bedford,Alma del Mar,04090000,04090205,0409,52340274.7636,49780.3137415
+Charter,Argosy Collegiate Charter School,Fall River,Argosy,35090000,35090305,3509,99829695.2278,63680.9643054
+Charter,Atlantis Charter School,Fall River,Atlantis,04910000,04910550,0491,99829695.2278,63680.9643054
+Charter,Barnstable Community Horace Mann Charter Public School,Barnstable,BCHM,04270000,04270010,0427,169774235.159,81031.8925937
+Charter,Baystate Academy Public Charter School,Springfield,BACPS,35020000,35020405,3502,85669527.5599,40707.8465785
+Charter,Benjamin Banneker Charter Public School,Cambridge,Banneker,04200000,04200205,0420,18400398.715,26475.6844686
+Charter,Holyoke Community Charter School,Holyoke,HCCS,04530000,04530005,0453,59048524.8707,39801.7387995
+Charter,Map Academy Charter School,"Carver, Plymouth, Wareham",Map Academy,35170000,35170505,3517,469605392.606,152442.171484
+Charter,Martha's Vineyard Public Charter School,"Edgartown, Oak Bluffs, Tisbury, Martha's Vineyard, Up-Island Regional",MVPCS,04660000,04660550,0466,245340628.532,215610.696115
+Charter,Benjamin Franklin Classical Charter Public School,"Bellingham, Franklin, Holliston, Hopedale, Medway, Milford, Millis, Norfol, Plainville, Walpole, Wrentham, Blackstone-Millville, Mendon-Upton",BFCCPS,04470000,04470205,0447,611204773.934,148526.48133
+Charter,Bentley Academy Charter School,Salem,BACS,35110000,35110205,3511,21111613.1386,31107.5790147
+Charter,Berkshire Arts and Technology Charter Public School,"Clarksburg, Florida, Hancock, Lanesborough, North Adams, Pittsfield, Savoy, Williamstown, Adams-Cheshire, Mount Greylock",BART,04140000,04140305,0414,809706351.424,140671.794703
+Charter,Boston Collegiate Charter School,Boston,BCCS,04490000,04490305,0449,130383961.692,191079.658228
+Charter,Boston Day and Evening Academy Charter School,Boston,BDEA,04240000,04240505,0424,130383961.692,191079.658228
+Charter,Boston Green Academy Horace Mann Charter School,Boston,BGA,04110000,04110305,0411,130383961.692,191079.658228
+Charter,Boston Preparatory Charter Public School,Boston,BPCPS,04160000,04160305,0416,130383961.692,191079.658228
+Charter,Boston Renaissance Charter Public School,Boston,Renaissance,04810000,04810550,0481,130383961.692,191079.658228
+Charter,Bridge Boston Charter School,Boston,Bridge,04170000,04170205,0417,130383961.692,191079.658228
+Charter,Brooke Charter School,"Boston, Chelsea",Brooke,04280000,04280305,0428,136131092.269,203469.708777
+Charter,Cape Cod Lighthouse Charter School,"Barnstable, Bourne, Falmouth, Mashpee, Provincetown, Sandwich, Truto, Dennis-Yarmouth, Nauset, Monomoy Regional",CCLCS,04320000,04320530,0432,1092710038.85,656587.627129
+Charter,Christa McAuliffe Charter School,"Ashland, Framingham, Holliston, Hopkinton, Marlborough, Natick, Southborough, Sudbury",McAuliffe,04180000,04180305,0418,426343262.75,132718.86879
+Charter,City on a Hill Charter Public School Circuit Street,Boston,COAH CS,04370000,04370505,0437,130383961.692,191079.658228
+Charter,City On A Hill Charter Public School Dudley Square,Boston,COAH DS,35040000,35040505,3504,130383961.692,191079.658228
+Charter,City On A Hill Charter Public School New Bedford,New Bedford,COAH NB,35070000,35070505,3507,52340274.7636,49780.3137415
+Charter,Codman Academy Charter Public School,Boston,Codman,04380000,04380505,0438,130383961.692,191079.658228
+Charter,Collegiate Charter School of Lowell,Lowell,CCSL,35030000,35030205,3503,37630657.8659,28403.6640576
+Charter,Community Charter School of Cambridge,Cambridge,CCSC,04360000,04360305,0436,18400398.715,26475.6844686
+Charter,Community Day Charter Public School-Gateway,Lawrence,CDCPS-G,04260000,04260205,0426,19238173.7382,21162.9940986
+Charter,Community Day Charter Public School-Prospect,Lawrence,CDCPS-P,04400000,04400205,0440,19238173.7382,21162.9940986
+Charter,Community Day Charter Public School-R. Kingman Webster,Lawrence,CDCPS-W,04310000,04310205,0431,19238173.7382,21162.9940986
+Charter,Conservatory Lab Charter School,Boston,Con Lab,04390000,04390050,0439,130383961.692,191079.658228
+Charter,Dudley Street Neighborhod Public Charter School,Boston,Dudley Street,04070000,04070405,0407,130383961.692,191079.658228
+Charter,Edward M. Kennedy Academy for Health Careers (Horace Mann Charter),Boston,Ed Kennedy,04520000,04520505,0452,130383961.692,191079.658228
+Charter,Excel Academy Charter School,"Boston, Chelsea",Excel,04100000,04100205,0410,136131092.269,203469.708777
+Charter,Four Rivers Charter Public School,"Greenfield, Frontier, Gill-Montague, Mohawk Trail, Pioneer Valley, Ralph C. Mahar",Four Rivers,04130000,04130505,0413,1913608717.31,314065.916585
+Charter,Foxborough Regional Charter School,"Attleboro, Avon, Brockton, Canton, Easton, Foxborough, Mansfield, Medfield, Medway, Millis, Norfolk, North Attleboro, Norton, Norwood, Plainville, Sharon, Stoughton, Walpole, West Bridgewater, Wrentham",Foxborough,04460000,04460550,0446,955102192.058,168292.092838
+Charter,Global Learning Charter Public School,New Bedford,Global Learning,04960000,04960305,0496,52340274.7636,49780.3137415
+Charter,Hampden Charter School of Science - East,"Chicopee, Ludlow, Springfield, West Springfield",Hampden East,04990000,04990305,0499,266301577.013,86761.8288095
+Charter,Helen Y. Davis Leadership Academy Charter Public School,Boston,Leadership Academy,04190000,04190305,0419,130383961.692,191079.658228
+Charter,Hampden Charter School of Science - West,"Agawam, Holyoke, West Springfield, Westfield",Hampden West,35160000,35160305,3516,290025547.441,97860.1373497
+Charter,Hill View Montessori Charter Public School,Haverhill,HVMCPS,04550000,04550505,0455,92457998.4263,43123.4076072
+Charter,Innovation Academy Charter School,"Billerica, Chelmsford, Dracut, Littleton, Lowell, Tewksbury, Tyngsborough, Westford, Groton-Dunstable",IACS,04350000,04350305,0435,580125389.268,149960.32288
+Charter,KIPP Academy Boston Charter School,Boston,KIPP Boston,04630000,04630205,0463,130383961.692,191079.658228
+Charter,KIPP Academy Lynn Charter School,Lynn,KIPP Lynn,04290000,04290010,0429,30026657.1314,25059.1138697
+Vocational,Nashoba Valley RVT,"Ayer, Chelmsford, Groton, Littleton, Pepperell, Shirley, Townsend, Westford",,08520000,,0852,485109367.102,128337.724075
+Vocational,Northern Berkshire RVT,"Adams, Cheshire, Clarksburg, Florida, Lanesboro, Monroe, North Adams, Savoy, Williamstown",,08510000,,0851,600190712.576,140872.394485
+Vocational,South Middlesex RVT,"Ashland, Framingham, Holliston, Hopkinton, Natick",,08290000,,0829,264804631.335,99558.1861582
+Vocational,South Shore RVT,"Abington, Cohasset, Hanover, Hanson, Norwell, Rockland, Scituate, Whitman",,08730000,,0873,279305765.415,143315.257223
+Vocational,Southeastern RVT,"Brockton, East Bridgewater, Easton, Foxborough, Mansfield, Norton, Sharon, Stoughton, West Bridgewater",,08720000,,0872,506247263.619,117155.466973
+Vocational,Shawsheen Valley RVT,"Bedford, Billerica, Burlingon, Tewksbury, Wilmington",,08710000,,0871,233893931.046,75974.8721226
+Vocational,Southern Worcester County RVT,"Auburn, Charlton, Dudley, North Brookfield, Oxford, Paxton, Rutland, Southbridge, Spencer, Webster",,08760000,,0876,654329997.569,187678.181356
+Vocational,Tri County RVT,"Franklin, Medfield, Medway, Millis, Norfolk, North Attleborough, Plainville, Seekonk, Sherborn, Walpole, Wrentham",,08780000,,0878,492997211.8,160974.105748
+Vocational,Upper Cape Cod RVT,"Bourne, Falmouth, Marion, Sandwich, Wareham",,08790000,,0879,482552952.65,316385.964195
+Vocational,Whittier RVT,"Amesbury, Georgetown, Groveland, Haverhill, Ipswich, Merrimac, Newbury, Newburyport, Rowley, Salisbury, West Newbury",,08850000,,0885,516029621.123,186627.825615
+Collaborative,Southern Worcester County Educational Collaborative,"Auburn, Brimfield, Brookfield, Grafton, Holland, Leicester, Millbury, Northbridge, North Brookfield, Oxford, Southbridge, Sturbridge, Sutton, Uxbridge, Wales. Webster, Dudley-Charlton, Spencer-East Brookfield, Tantasqua, Quaboag",SWCEC,05720000,,0572,1364158672.04,203564.029924
+Collaborative,South Shore Educational Collaborative,"Braintree, Cohasset, Hingham, Hull, Marshfield, Milton, Norwell, Quincy, Randolph, Scituate, Weymouth",SOUTH SHORE,05740000,,0574,457858057.13,282202.199897
+Charter,Pioneer Valley Chinese Immersion Charter School,"Agawam, Amherst, Belchertown, Chicopee, Conway, Deerfield, Easthampton, East Longmeadow, Granby, Greenfield, Hadley, Hatfield, Holyoke, Leverett, Longmeadow, Ludlow, Northampton, Pelham, Shutesbury, Southampton, South Hadley, Springfield, Sunderland, Wes",PVCI,04970000,04970205,0497,3473057727.47,384849.32299
+Charter,Pioneer Valley Performing Arts Charter Public School,"Agawam, Amherst, Belchertown, Brimfield, Brookfield, Chicopee, Conway, Easthampton, East Longmeadow, Granby, Greenfield, Hadley, Hatfield, Holyoke, Leverett, Longmeadow, Ludlow, Monson, Northampton, Palmer, Pelham, Petersham, Savoy, Shutesbury, Southampt",PVPA,04790000,04790505,0479,5664912007.53,538589.453688
+Charter,Francis W. Parker Charter Essential School,"Bedford, Carlisle, Chelmsford, Clinton, Concord, Fitchburg, Gardner, Grafton, Harvard, Hudson, Leominster, Lincoln, Littleton, Lowell, Lunenburg, Marlborough, Maynard, Newton, Orange, Oxford, Shrewsbury, Southborough, Sudbury, Tyngsborough, Wayland, West",Parker,04780000,04780505,0478,4338317837.65,448593.421207
+Charter,Hilltown Cooperative Charter Public School,"Amherst, Belchertown, Conway, Deerfield, Easthampton, Erving, Granby, Greenfield, Hadley, Hatfield, Leverett, Northampton, Orange, Pelham, Rowe, Shutesbury, Southampton, South Hadley, Sunderland, Ware, Westhampton, Whately, Williamsburg, Amherst, Leveret",Hilltown,04500000,04500105,0450,4253026432.73,369702.92701
+Vocational,Franklin County RVT,"Bernardston, Buckland, Colrain, Conway, Deerfield, Erving, Gill, Greenfield, Heath, Leyden, Montague, New Salem, Northfield, Orange, Shelburne, Sunderland, Warwick, Wendell, Whately",,08180000,,0818,1404327489.3,262288.869053
+Vocational,Greater Fall River RVT,"Fall River, Somerset, Swansea, Westport",,08210000,,0821,328670232.352,187048.779356
+Vocational,Greater Lawrence RVT,"Andover, Lawrence, Methuen, North Andover",,08230000,,0823,233855647.471,74299.8765288
+Vocational,Greater Lowell RVT,"Dracut, Dunstable, Lowell, Tyngsborough",,08280000,,0828,183340893.146,81197.9480862
+Vocational,Greater New Bedford RVT,"Dartmouth, Fairhaven, New Bedford",,08250000,,0825,249365004.172,161481.695321
+Vocational,Minuteman RVT,"Acton, Arlington, Belmont, Bolton, Concord, Dover, Lancaster, Lexington, Needham, Stow, Wayland, Weston",,08300000,,0830,518904992.404,265346.060928
+Vocational,Montachusett RVT,"Ashburnham, Ashby, Athol, Barre, Fitchburg, Gardner, Harvard, Holden, Hubbardston, Lunenburg, Petersham, Phillipston, Princeton, Royalston, Sterling, Templeton, Westminster, Winchendon",,08320000,,0832,1668021309.8,311569.19002
+Vocational,Northeast Metropolitan RVT,"Chelsea, Malden, Melrose, North Reading, Reading, Revere, Saugus, Stoneham, Wakefield, Winchester, Winthrop, Woburn",,08530000,,0853,231957521.938,140122.271439
+Vocational,Old Colony RVT,"Acushnet, Carver, Lakeville, Mattapoisett, Rochester",,08550000,,0855,384364199.561,178781.429689
+Vocational,Pathfinder RVT,"Hardwick, Belchertown, Granby, Monson, New Braintree, Oakham, Palmer, Ware, Warren",,08600000,,0860,804785287.009,211678.991991
