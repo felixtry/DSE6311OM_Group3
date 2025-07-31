@@ -6,19 +6,16 @@
 
               
 ## Proposed Working Title:
-“Predicting School District Assistance Needs Using Educational and Socioeconomic Indicators”
+“The Impact of Socioeconomic Factors and Municipal Spending on Public School District Performance”
 
 ### Research Question:
-How do educational and socioeconomic indicators predict a Massachusetts public school district’s assistance needs?
-This question helps to address issues faced by public school districts in Massachusetts (and across the United States), particularly regarding how indicators such as graduation rates, district spending, teacher certification, and socioeconomic status may impact school districts’ needs for assistance.   With the recent current events regarding budget cuts, withheld funds, and difficult contract negotiations, exploring this question will address the inequities seen between public school districts.  We anticipate that other important secondary questions will arise as we continue to analyze and work with the data.
+Given the socioeconomic challenges and educational needs that school districts cannot control, how can they best use their available resources to improve graduation rates?
 
 ### Hypothesis 
-Because school districts with lower socioeconomic status tend to be lower performing, they will be more likely to have assistance needs.
+School districts can benefit from allocating more funds to student-facing resources to improve graduation rates because increased investment in areas such as teacher experience, class size, and school performance correlates with improved student outcomes and reduced dropout rates.
 
 ### Predictions:
-1) School districts with lower graduation rates will be classified as “Requiring assistance or intervention”.
-2) School districts serving communities with lower average income will be classified as “Requiring assistance or intervention”.
-3) School districts with lower per pupil expenditures will be classified as “Requiring assistance or intervention”.
-4) School districts with a higher student/teacher ratio will be classified as “Requiring assistance or intervention”.
-5) School districts with a lower percentage of licensed teachers will be classified as “Requiring assistance or intervention”.
-6) School districts with a higher percentage of low income students will be classified as “Requiring assistance or intervention”.
+1) School districts that spend less per pupil will have lower graduation rates.
+2) School districts with a higher percentage of experienced, certified teachers will have higher graduation rates.
+3) School districts meeting or exceeding state improvement targets will have higher graduation rates.
+4) School districts with a lower student-to-teacher ratio will have higher graduation rates.
