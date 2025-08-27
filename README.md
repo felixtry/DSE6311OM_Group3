@@ -66,7 +66,7 @@ The analysis is organized across a series of Juypyter notebooks located in the `
 They should be run in order for the best results:  
 [1_Data](Notebook/1_Data.ipynb): merge datasets, data cleaning  
 [2_EDA](Notebook/2_EDA.ipynb): handle missing values, descriptive statistics & visualization, correlation checks, initial insights  
-[3_Preprocessing_and_Feature_Engineering](Notebook/3_Preprocessing.ipynb): encode categorical values, identify outliers, feature engineering  
+[3_Preprocessing_and_Feature_Engineering](Notebook/3_Preprocessing_and_Feature_Engineering.ipynb): encode categorical values, identify outliers, feature engineering  
 [4_Models_trials](Notebook/4_Models_trials.ipynb): train and test split, feature scaling, null model, preliminary Random Forest model  
 [5_Split_models](Notebook/5_Split_models.ipynb): including Random Forest model with different feature sets  
 [6_OLS_model](Notebook/6_OLS_model.ipynb): OLS model (with attempts to improve), Ridge Regression model, baseline OLS model  
