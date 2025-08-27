@@ -9,6 +9,7 @@ A data science capstone project that investigates how socioeconomic factors and 
 - [Installation](#installation)
 - [Data](#data)
 - [Notebooks](#notebooks)
+- [Deliverables)(#deliverables)
 - [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)        
 
@@ -86,7 +87,9 @@ If you have anys suggestions, please fork the repo and create a pull request or 
   
 Please note that we follow the [Contributor Covenant Code of Conduct](http://contributor-covenant.org/version/1/3/0/)
 
-
+### Deliverables
+- [Final Report]
+- [Presentation Slides](https://drive.google.com/file/d/1SIjCxUSnnImaJNqD9ohsQCvLM_JT34Uq/view?usp=drive_link)
 
 ### Acknowledgements
 **Team Members:** <br>
