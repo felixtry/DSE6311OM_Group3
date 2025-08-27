@@ -62,7 +62,7 @@ Dataset in `Data/` folder: [Missing Regional Schools.xlsx](https://github.com/fe
 
 
 ### Notebooks
-The analysis is organized across a series of Juypyter notebooks located in the `Notebooks/` folder.  
+The analysis is organized across a series of Juypyter notebooks located in the `Notebook/` folder.  
 They should be run in order for the best results:  
 [1_Data](1_Data.ipynb): merge datasets, data cleaning  
 [2_EDA](1_EDA.ipynb): handle missing values, descriptive statistics & visualization, correlation checks, initial insights  
