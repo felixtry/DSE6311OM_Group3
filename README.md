@@ -27,7 +27,10 @@ School districts can benefit from allocating more funds to student-facing resour
 4) School districts with a lower student-to-teacher ratio will have higher graduation rates.
 
 ### Install
-Clone the repository
+**Requirements**
+- Use Python 3.11 or higher
+- See requirements.txt for package dependencies
+- Clone the repository
 ```bash
 git clone https://github.com/felixtry/DSE6311OM_Group3.git
 ```
