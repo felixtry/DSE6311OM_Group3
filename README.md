@@ -9,7 +9,7 @@ A data science capstone project that investigates how socioeconomic factors and 
 - [Installation](#installation)
 - [Data](#data)
 - [Notebooks](#notebooks)
-- [Deliverables)(#deliverables)
+- [Deliverables](#deliverables)
 - [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)        
 
