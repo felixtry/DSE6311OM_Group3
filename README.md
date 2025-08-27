@@ -51,14 +51,14 @@ Datasets in `Data/` folder from DESE: [Accountability.xlsx](Data/Accountability.
     
 2. **Massachusetts Department of Revenue (DOR):**  
 municipal income per capita  
-Datasets in `Data/` folder from DOR: [DOR_Income_EQV_Per_Capita.xlsx](DOR_Income_EQV_Per_Capita.xlsx)  
+Datasets in `Data/` folder from DOR: [DOR_Income_EQV_Per_Capita.xlsx](Data/DOR_Income_EQV_Per_Capita.xlsx)  
   
 3. **MassGIS:**  
 geographic and municipal data  
-Datasets in `Data/` folder from MassGIS: [schooldistricts_Town.csv](schooldistricts_Town.csv), [schooldistricts_charter.csv](schooldistricts_charter.csv)
+Datasets in `Data/` folder from MassGIS: [schooldistricts_Town.csv](Data/schooldistricts_Town.csv), [schooldistricts_charter.csv](Data/schooldistricts_charter.csv)
   
 4. **Additional Dataset:**  
-Dataset in `Data/` folder: [Missing Regional Schools.xlsx](https://github.com/felixtry/DSE6311OM_Group3/blob/amanda_updates/Data/Missing%20Regional%20Schools.xlsx)
+Dataset in `Data/` folder: [Missing Regional Schools.xlsx](Data/Missing Regional Schools.xlsx)
    
 
 
