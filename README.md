@@ -5,8 +5,10 @@ A data science capstone project that investigates how socioeconomic factors and 
 
 ## Table of Contents
 - [Background](#background)
-- [Install](#install)
-- [Usage](#usage)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Data](#data)
+- [Notebooks](#notebooks)
 - [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)        
 
@@ -26,16 +28,22 @@ School districts can benefit from allocating more funds to student-facing resour
 3) School districts meeting or exceeding state improvement targets will have higher graduation rates.
 4) School districts with a lower student-to-teacher ratio will have higher graduation rates.
 
-### Install
-**Requirements**
+### Requirements
 - Use Python 3.11 or higher
-- See requirements.txt for package dependencies
-- Clone the repository
+- For package dependencies, see [requirements.txt](requirements.txt)
+
+### Installation
+1) Clone the repository
 ```bash
 git clone https://github.com/felixtry/DSE6311OM_Group3.git
 ```
+2) Install dependencies
+```bash
+pip install -r requirements.txt
+```
 
-### Usage
+### Data
+The dataset used in this project comes from multiple sources, found in the [Data folder]
 
 ### Contributing
 Contributions are welcome!
