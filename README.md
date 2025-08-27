@@ -58,7 +58,7 @@ geographic and municipal data
 Datasets in `Data/` folder from MassGIS: [schooldistricts_Town.csv](Data/schooldistricts_Town.csv), [schooldistricts_charter.csv](Data/schooldistricts_charter.csv)
   
 4. **Additional Dataset:**  
-Dataset in `Data/` folder: [Missing Regional Schools.xlsx](Data/Missing Regional Schools.xlsx)
+Dataset in `Data/` folder: [Missing Regional Schools.xlsx](https://github.com/felixtry/DSE6311OM_Group3/blob/e34f89bbce30356adc7b1030a2fc43e24451b201/Data/Missing%20Regional%20Schools.xlsx)
    
 
 
