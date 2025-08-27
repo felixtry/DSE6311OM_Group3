@@ -46,7 +46,7 @@ pip install -r requirements.txt
 The dataset used in this project comes from the following sources:
 1. **Massachusetts Department of Elementary and Secondard Education (DESE):**  
 district-level graduation rates, accountability classifications, student demographics, financial inputs, and teacher data  
-Datasets in `Data/` folder from DESE: [Accountability.xlsx](Accountability.xlsx), [PerPupilExpenditures.xlsx](PerPupilExpenditures.xlsx), [gradrates.xlsx](gradrates.xlsx), [teacherdata.xlsx](teacherdata.xlsx)
+Datasets in `Data/` folder from DESE: [Accountability.xlsx](Data/Accountability.xlsx), [PerPupilExpenditures.xlsx](Data/PerPupilExpenditures.xlsx), [gradrates.xlsx](Data/gradrates.xlsx), [teacherdata.xlsx](Data/teacherdata.xlsx)
     
 2. **Massachusetts Department of Revenue (DOR):**  
 municipal income per capita  
@@ -67,10 +67,10 @@ They should be run in order for the best results:
 [1_Data](Notebook/1_Data.ipynb): merge datasets, data cleaning  
 [2_EDA](Notebook/2_EDA.ipynb): handle missing values, descriptive statistics & visualization, correlation checks, initial insights  
 [3_Preprocessing_and_Feature_Engineering](Notebook/3_Preprocessing_and_Feature_Engineering.ipynb): encode categorical values, identify outliers, feature engineering  
-[4_Models_trials](Notebook/4_Model_trials.ipynb): train and test split, feature scaling, null model, preliminary Random Forest model  
+[4_Model_trials](Notebook/4_Model_trials.ipynb): train and test split, feature scaling, null model, preliminary Random Forest model  
 [5_Split_models](Notebook/5_Split_models.ipynb): including Random Forest model with different feature sets  
 [6_OLS_model](Notebook/6_OLS_model.ipynb): OLS model (with attempts to improve), Ridge Regression model, baseline OLS model  
-[7_regression_models](Notebook/7_regression_models.ipynb): Random Forest model (with hyperparameter tuning), XGBoost model (with hyperparameter tuning), Support Vector Regression, CatBoost model
+[7_regression_models](Notebook/7_regression_models.ipynb): Random Forest model (with hyperparameter tuning), XGBoost model (with hyperparameter tuning), Support Vector Regression, CatBoost model  
 [8_regression_models_latest](Notebook/8_regression_models_latest.ipynb): Final tuning and analysis of Random Forest model,  XGBoost model, Support Vector Regression, CatBoost model
 
 
