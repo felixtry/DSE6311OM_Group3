@@ -64,7 +64,7 @@ Dataset in `Data/` folder: [Missing Regional Schools.xlsx](https://github.com/fe
 ### Notebooks
 The analysis is organized across a series of Juypyter notebooks located in the `Notebook/` folder.  
 They should be run in order for the best results:  
-[1_Data](1_Data.ipynb): merge datasets, data cleaning  
+[1_Data](Notebook/1_Data.ipynb): merge datasets, data cleaning  
 [2_EDA](1_EDA.ipynb): handle missing values, descriptive statistics & visualization, correlation checks, initial insights  
 [3_Preprocessing_and_Feature_Engineering](3_Preprocessing.ipynb): encode categorical values, identify outliers, feature engineering  
 [4_Models_trials](4_Models_trials.ipynb): train and test split, feature scaling, null model, preliminary Random Forest model  
