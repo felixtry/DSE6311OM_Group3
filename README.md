@@ -88,7 +88,7 @@ If you have anys suggestions, please fork the repo and create a pull request or 
 Please note that we follow the [Contributor Covenant Code of Conduct](http://contributor-covenant.org/version/1/3/0/)
 
 ### Deliverables
-- [Final Report]
+- [Final Report](https://drive.google.com/file/d/16mWeoEMf8EwM88mJ-IQtJ6KgwgJYI5_s/view?usp=sharing)
 - [Presentation Slides](https://drive.google.com/file/d/1SIjCxUSnnImaJNqD9ohsQCvLM_JT34Uq/view?usp=drive_link)
 
 ### Acknowledgements
